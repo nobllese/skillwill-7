@@ -54,7 +54,7 @@ makeToys()
 
 
 
-//ASYNC/AWAIR
+//ASYNC/AWAIT
 
 // async function makeToys() {
 //     return new Promise((resolve, reject) => {
